@@ -1,8 +1,12 @@
 ---
 title: python-snowflakeclient
+
 description: Another python snowflake client. But this works.
+
 author: J. Matt Peterson
+
 created:  2013 Apr 30
+
 modified: 2013 Apr 30
 
 ---
